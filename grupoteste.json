@@ -1,0 +1,1 @@
+{"version_app":"1.1.3","version_extension":"1.3.12","version_runtime":"2.3.0","groups":[{"root":{"path":"/html[1]/body[1]","id":null},"name":"grupoteste","timeScale":1,"timelines":[{"type":"dom","props":{"y":{"0s":"-25px","2.002754306335561s":{"value":"0","ease":"Quad.easeInOut"}}},"label":"div[3]/div[3]/div[2]/div/img","path":"div[3]/div[3]/div[2]/div[1]/img[1]"}]}]}
